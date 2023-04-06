@@ -1,2 +1,2 @@
 # playingCardPackage
-"A package for generating and managing playing card decks"
+A package for generating and managing playing card decks
